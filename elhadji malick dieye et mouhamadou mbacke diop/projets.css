@@ -1,0 +1,36 @@
+.acceiul{
+   border:1px solid black;
+   width: 50%;
+   margin-left: 25%;
+   text-align: center;
+   color: rgb(210, 255, 240);
+   background-color: rgb(55, 200, 236);
+}
+.liste{
+    
+    border:1px solid black;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    text-align: center;
+   
+
+}
+ul{
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+   
+  
+}
+li h2{
+    border: 1px solid black;
+    width: 35%;
+    margin-left: 30%;
+    background-color: rgb(71, 187, 255);
+    
+}
+
+/*page de recherche*/
